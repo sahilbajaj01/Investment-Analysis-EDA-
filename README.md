@@ -1,4 +1,4 @@
-# Investment-Analysis-EDA-
+# Investment Analysis (Exploratory Data Analysis)
 
 Spark Funds wants to make investments in a few companies. The CEO of Spark Funds wants to understand the global trends in investments so that she can take the investment decisions effectively.
 
@@ -20,10 +20,10 @@ Spark Funds wants to invest where most other investors are investing. This patte
 
 The business objectives and goals of data analysis are pretty straightforward.
 
-### 1 Business objective 
+### 1. Business objective 
 The objective is to identify the best sectors, countries, and a suitable investment type for making investments. The overall strategy is to invest where others are investing, implying that the 'best' sectors and countries are the ones 'where most investors are investing'.
 
-### 2 Goals of data analysis: 
+### 2. Goals of data analysis: 
 
 Your goals are divided into three sub-goals:
 
